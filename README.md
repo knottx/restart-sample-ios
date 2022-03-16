@@ -7,4 +7,4 @@ Sample SwiftUI App
 - Haptice feedback
 - Play sound
 
-|![ScreenShot](/ss1.png = 200x)|![ScreenShot](/ss2.png = 200x)|
+![ScreenShot](/ss1.png | width=200) ![ScreenShot](/ss2.png | width=200)
